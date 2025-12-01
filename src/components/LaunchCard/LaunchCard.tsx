@@ -10,7 +10,7 @@ export function LaunchCard({ launch, onOpen }: LaunchCardProps) {
     <Card shadow="sm" padding="md" radius="md" withBorder>
       <Card.Section>
         <Image my='xl' py='sm'
-        src={launch.links.mission_patch_small}
+        src={launch.links.mission_patch_small || undefined}
         alt={launch.mission_name}
         h={120}
         fit='contain'

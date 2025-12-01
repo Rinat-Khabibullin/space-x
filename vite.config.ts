@@ -6,7 +6,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: "/vegetable-store/",
+  base: "/space-x/",
   test: {
     globals: true,
     environment: 'jsdom',
