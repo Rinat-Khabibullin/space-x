@@ -11,17 +11,15 @@ https://github.com/user-attachments/assets/688ef9fd-9a37-4cbd-8ce3-2d327f6ff3ba
 
 ![Tests](https://github.com/Rinat-Khabibullin/space-x/actions/workflows/tests.yml/badge.svg)
 
-React + TypeScript
+React + TypeScript;
+Vite;
+Mantine UI;
+CSS Modules;
+React Portals;
+useReducer для состояния;
+Vitest / @testing-library/react;
 
-Vite
-
-Mantine UI
-CSS Modules
-React Portals
-useReducer для состояния
-Vitest / @testing-library/react
-
-Запуск 
+Запуск:
 git clone https://github.com/Rinat-Khabibullin/space-x.git
 cd space-x
 npm install
@@ -38,6 +36,7 @@ Reducer (launchReducer.test.ts)
 закрытие модалки
 клик по бэкдропу
 лоадер
+
 
 
 
