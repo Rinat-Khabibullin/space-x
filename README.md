@@ -9,6 +9,7 @@ Demo
 Preview tests
 https://github.com/user-attachments/assets/688ef9fd-9a37-4cbd-8ce3-2d327f6ff3ba
 
+![Tests](https://github.com/Rinat-Khabibullin/space-x/actions/workflows/tests.yml/badge.svg)
 React + TypeScript
 Vite
 Mantine UI
